@@ -9,7 +9,7 @@ Nivo Slider v2.7.1 by Gilbert Pellegrom - http://nivo.dev7studios.com/
 *{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:baseline;}
 
 /* HTML elements */
-body{background-color:#f2f2f2;color:#666;font-family:'Droid Sans',Tahoma,Arial,sans-serif;font-size:16px;line-height:1.6em;}
+body{background-color:#f2f2f2;color:#666;font-family:'Droid Sans',Tahoma,Arial,sans-serif;font-size:15px;line-height:1.6em;}
 a{color:#a54569;text-decoration:none;}
 a:hover{color:#333;text-decoration:none;}
 a img{border:none;}
@@ -21,6 +21,7 @@ h4{font-size:1.5em;}
 p,ul{margin:0 0 20px 0;}
 i,em {font-style:italic;}
 b,strong {font-weight:700;}
+
 
 /* Main wrappers */
 #wrapper1240{background-color:#fff;margin:20px auto;width:1240px;}
@@ -68,7 +69,7 @@ b,strong {font-weight:700;}
 
 /* Footer */
 #footer{clear:both;background-color:#fafafa;}
-#footer p{color:#777;font-size:12px;margin:0;padding:15px 30px;text-align:center;}
+#footer p{color:#777;font-size:10px;margin:0;padding:15px 30px;text-align:center;}
 #footer a{color:#777;}
 #footer a:hover{color:#333;}
 
